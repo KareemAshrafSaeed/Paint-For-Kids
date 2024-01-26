@@ -1,0 +1,11 @@
+green	black
+9
+SQUARE	0	407	273	blue	black
+RECT	1	543	248	876	439	blue	blue
+Circ	2	105	231	187	291	blue	yellow
+TRIANGLE	3	280	334	317	451	134	456	blue	NO FILL
+HEXAGON	4	1042	243	green	NO_FILL
+Circ	5	469	152	482	173	blue	orange
+SQUARE	6	438	467	blue	green
+TRIANGLE	7	792	289	795	353	909	534	blue	yellow
+HEXAGON	8	1040	417	yellow	black
