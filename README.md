@@ -1,6 +1,6 @@
 # Paint For Kids
 
-## Table of Contents
+## Table of contents
 
 - [About](#about)
 - [Built With](#built)
