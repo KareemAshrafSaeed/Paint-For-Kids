@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [About](#about)
+- [Description](#about)
 - [Built With](#built)
 - [GIF Demo](#gif)
 - [Features](#features)
