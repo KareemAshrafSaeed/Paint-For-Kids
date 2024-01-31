@@ -7,7 +7,7 @@
 - [GIF Demo](#gif)
 - [Features](#features)
 
-## About <a name = "about"></a>
+## Description <a name = "about"></a>
 
 “Paint for Kids” is an engaging and educational application designed to spark creativity and learning in children. It offers a vibrant palette of colors and a variety of shapes, encouraging kids to experiment and express themselves artistically.
 The app’s save and load functionality ensures that no masterpiece is ever lost and allows for continuous creativity. Additionally, it features a game mode, adding an element of fun to the learning process.
